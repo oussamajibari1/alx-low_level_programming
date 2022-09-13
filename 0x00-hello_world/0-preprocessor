@@ -1,2 +1,2 @@
 #!/bin/bash
-it should be 2
+gcc –E –o c $CFILE 
