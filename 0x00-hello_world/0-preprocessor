@@ -1,2 +1,4 @@
+#!/bin/bash
+gcc -E $CFILE -o c
 contains 1, 
 it should be 2
