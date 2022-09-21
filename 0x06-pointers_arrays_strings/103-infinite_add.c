@@ -58,7 +58,4 @@ char *add_strings(char *n1, char *n2, char *r, int r_index)
 	}
 	
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
